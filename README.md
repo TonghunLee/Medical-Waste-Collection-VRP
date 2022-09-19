@@ -6,3 +6,5 @@ Medical waste collection case study in COVID-19 pandemic]'(https://www.sciencedi
 
 Used Seoul Emergency Room data as a substitute for testing, which is also uploaded.
 Data source: https://data.seoul.go.kr/dataList/OA-20338/S/1/datasetView.do
+
+Used Gurobipy for optimization, and used Veroviz for route visualization.
